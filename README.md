@@ -1,6 +1,10 @@
 # Khulasa
 
-**خلاصة** — *summary*
+<p align="center">
+  <img src="logo.png" alt="Khulasa" width="400">
+</p>
+
+**Khulasa** - **خلاصة** (Summary)
 
 Khulasa is a news aggregation, summarization, and personalized recommendation
 platform. It pulls articles from RSS feeds, extracts and stores their content,
@@ -201,3 +205,11 @@ ports.
 The composition is deliberately flat — no orchestrator — because the goal is a
 system that is understandable end to end. The boundaries are drawn so that
 moving to an orchestrator later is a relocation, not a redesign.
+
+---
+
+## Where is the code?
+
+Khulasa was developed for a startup, so the source code is not publicly
+available. This document describes the system's design and behavior without
+publishing the implementation.
